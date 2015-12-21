@@ -1,0 +1,34 @@
+{
+  "name" : "pDatetimePicker",
+  "version" : "1.1",
+  "description" : "Just another jQuery DateTimePicker. It is based on JS Framework jQuery Plugin Date and Time Picker (https://github.com/xdan/datetimepicker)",
+  "keywords" : ["time", "date", "plugin", "oracle", "item", "datetime", "clockpicker", "timepicker", "clock"],
+  "homepage" : "https://github.com/pr49sc/apex-plugin-datetimepicker",
+  "bugs" : {
+    "url" : "https://github.com/pr49sc/apex-plugin-datetimepicker/issues",
+    "email" : "sc@pragmatis.de"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Steffen Clauß",
+    "email" : "sc@pragmatis.de",
+    "url" : "http://www.pragmatis.de/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/pr49sc/apex-plugin-datetimepicker.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.4", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.2"],
+      "plugin" : {
+        "internalName" : "DE.PRAGMATIS.SC.DATETIMEPICKER",
+        "type" : "item",
+        "demo" : "",
+        "previewImage" : "https://github.com/pr49sc/apex-plugin-datetimepicker/master/preview.png"
+      }
+    }
+  }
+
+}
