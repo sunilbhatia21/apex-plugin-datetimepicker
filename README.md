@@ -28,5 +28,5 @@ The plugin settings are highly customizable and you can change:
 * Round time						=> For timepicker only: round time (possible values: round, ceil, floor; default: round)
 
 ##Preview
-[Preview!](https://github.com/pr49sc/apex-plugin-datetimepicker/master/preview.png)
+[Preview](https://github.com/pr49sc/apex-plugin-datetimepicker/blob/master/preview.png)
 
